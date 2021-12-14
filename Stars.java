@@ -1,5 +1,5 @@
 
-public class Main {
+public class Stars.java  {
 public static void main(String[] args) {
         int p = 0;
         while(p <= 5){
